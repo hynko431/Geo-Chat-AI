@@ -1,0 +1,7 @@
+{
+  "name": "GeoChat AI",
+  "description": "An interactive AI chatbot powered by Google Maps grounding for real-time location insights and interactive map exploration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
